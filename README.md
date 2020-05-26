@@ -1,5 +1,7 @@
 # Android project proposal starter
 
+*_My Fun Run_ is a simple Android app that allows users to track their runs (or walks) with fun and engaging race modes. 
+
 ## Project expectations
 
 In coming up with a project topic and writing the proposal, please keep in mind the _basic_ requirements for the personal Android project:
