@@ -22,22 +22,31 @@ _My Fun Run_ is a simple Android app that allows users to track their runs (or w
 ## Functionality
 
 *Track run/walks
+
 *Store stats
+
 *Provide entertainmnet and motivation 
 
 ## Persistent data
 
 *GPS/Location
+
 *Time
+
 *Distance
+
 *Speed/Pace
+
 *Heart Rate
     
 ## Device/external services
 
 *GPS
+
 *Push Notifications
+
 *Accelerator
+
 *Timer/Clock
 
 ## Stretch goals/possible enhancements 
