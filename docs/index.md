@@ -1,6 +1,6 @@
 ---
 title: My Fun Run
-description: "Log and track your runs and walks too"
+description: "Log and track your runs and walks, too!"
 layout: default
 ---
 
@@ -10,7 +10,7 @@ _My Fun Run_ is a simple Android app that allows users to track their runs (or w
 
 ## Intended users
 
-*Race Enthusists 
+* Race Enthusists 
 
     > As a race enthusists who trains long hours, I want to be able to track my runs so that I can see my progress as I train for each marathon.
 
@@ -21,34 +21,44 @@ _My Fun Run_ is a simple Android app that allows users to track their runs (or w
 
 ## Functionality
 
-*Track run/walks
+* Tracking of distance traveled, location, time, speed, and heart rate
 
-*Store stats
+* Store stats
 
-*Provide entertainmnet and motivation 
+* Provides entertainment
+
+* Provides motivational alerts
 
 ## Persistent data
 
-*GPS/Location
+* Location
 
-*Time
+* Time
 
-*Distance
+* Distance
 
-*Speed/Pace
+* Speed/Pace
 
-*Heart Rate
+* Heart Rate
     
 ## Device/external services
 
-*GPS
+* GPS/Location
 
-*Push Notifications
+* Push Notifications
 
-*Accelerator
+* Playstore
 
-*Timer/Clock
+* Android login
+
+* Bluetooth
+
+* Accelerator
+
+* Timer/Clock
 
 ## Stretch goals/possible enhancements 
 
-*Add communication between users 
+* Add communication between users 
+
+* Web server
