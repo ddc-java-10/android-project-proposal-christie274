@@ -12,7 +12,7 @@ _My Fun Run_ is an Android virutal themed race app. Allowing the user to track a
 
 * Race Enthusists 
 
-    > As a race enthusists who trains long hours, I want to be able to track my runs so that I can see my progress while training for marathons.
+    > As a ultra-runner who runs long hours, I want to be able to track my runs so that I can see my progress while training.
 
 
 * New Runners.
