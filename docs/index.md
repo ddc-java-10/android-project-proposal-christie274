@@ -6,13 +6,13 @@ layout: default
 
 ## Summary
 
-_My Fun Run_ is a simple Android app that allows users to track their runs (or walks) with fun and engaging race modes. 
+_My Fun Run_ is an Android virutal themed race app. Allowing the user to track and save their routes while utilizing themed race mode options to simulate real life theme runs. This ultra-immersive running game will get any user motivated to get running and achieve their goals.
 
 ## Intended users
 
 * Race Enthusists 
 
-    > As a race enthusists who trains long hours, I want to be able to track my runs so that I can see my progress as I train for each marathon.
+    > As a race enthusists who trains long hours, I want to be able to track my runs so that I can see my progress while training for marathons.
 
 
 * New Runners.
@@ -21,25 +21,23 @@ _My Fun Run_ is a simple Android app that allows users to track their runs (or w
 
 ## Functionality
 
-* Tracks distance traveled, location, time, speed, and heart rate
+* Tracks distance traveled, time, and pace
 
-* Stores stats for each run/walk
+* App stores above mentioned stats for each activity so user can track progress from run to run, daily, weekly, or monthly.
 
-* Provides entertainment through race modes options
+* Developer will provide start, stop, and pause options
 
-* Provides motivational alerts
+* Developer will create race mode options, user can choose race type/theme
+
+* Developer will create preprogrammed alerts. As user approaches markers along the desired course, push notifications would send user alerts for motivation. Markers would be identified by distance traveled.
 
 ## Persistent data
 
-* Location
+* Time- use phone clock to track the amount of time spent running.
 
-* Time
+* Distance- track the number of miles ran
 
-* Distance
-
-* Speed/Pace
-
-* Heart Rate
+* Speed/Pace- use the accelarator to track pace (MPH) at which the user is running 
     
 ## Device/external services
 
@@ -58,6 +56,8 @@ _My Fun Run_ is a simple Android app that allows users to track their runs (or w
 * Timer/Clock
 
 ## Stretch goals/possible enhancements 
+
+* Sync with music for utilization of playlists through app
 
 * Add communication between users 
 
